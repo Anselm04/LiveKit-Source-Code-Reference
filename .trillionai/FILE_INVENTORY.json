@@ -1,0 +1,22 @@
+{
+  "upstream": "https://github.com/livekit/livekit",
+  "upstream_commit": "c10a54095ceaf9b963f65512373031b259e62cb3",
+  "upstream_tree": "a01ebd60b14e039de1208f304aa88ef60feeeb2c",
+  "upstream_tracked_entries": 526,
+  "upstream_blob_files": 526,
+  "expected_source_files": 521,
+  "verified_source_files": 521,
+  "excluded_paths": {
+    ".github/workflows/buildtest.yaml": "upstream workflow disabled",
+    ".github/workflows/docker.yaml": "upstream workflow disabled",
+    ".github/workflows/release.yaml": "upstream workflow disabled",
+    ".github/workflows/slack-notifier.yaml": "upstream workflow disabled",
+    ".github/workflows/test-server-docker.yaml": "upstream workflow disabled"
+  },
+  "missing_paths": [],
+  "mismatched_paths": [],
+  "extra_paths": [
+    ".github/workflows/import-reference.yml"
+  ],
+  "scope": "Tracked Git blobs; no external LFS payloads, submodule contents or full history."
+}

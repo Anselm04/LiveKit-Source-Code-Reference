@@ -1,0 +1,3 @@
+Upstream: https://github.com/livekit/livekit
+Revision: c10a54095ceaf9b963f65512373031b259e62cb3
+Original tree: a01ebd60b14e039de1208f304aa88ef60feeeb2c
